@@ -2,4 +2,4 @@ quit
 linh tinh
 :wq!
 
-clear
+
